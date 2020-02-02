@@ -1,2 +1,2 @@
 # G-Face
-Generate faces with GAN
+Generate faces with GANs
